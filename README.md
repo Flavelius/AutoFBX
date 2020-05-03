@@ -1,4 +1,4 @@
-Exports and fbx alongside the saved file using export presets from the fbx exporter
+Exports an fbx alongside the saved file using export presets from the fbx exporter
 
 Export presets can be created by opending the fbx export dialog.
 After that, one can be set in the addon panel (3D View -> AutoFBX sidepanel entry; use reload when presets have changed)
